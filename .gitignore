@@ -1,0 +1,11 @@
+**/*.zip
+**/__pycache__/
+**/build/
+**/datasets/
+**/img/
+**/out/
+**/out_pt/
+**/mnist/
+**/outputs/
+**/saved_model/
+**/sst_glove_6b_300d.txt

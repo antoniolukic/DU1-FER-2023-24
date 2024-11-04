@@ -1,0 +1,36 @@
+lr: 0.005
+Epoch 0: valid accuracy = 0.49917627677100496
+Epoch 1: valid accuracy = 0.49917627677100496
+Epoch 2: valid accuracy = 0.49917627677100496
+Epoch 3: valid accuracy = 0.49917627677100496
+Epoch 4: valid accuracy = 0.49917627677100496
+Avg_loss:  0.6957060417958668
+f1: 0.0
+Confusion matrix:
+ [[444   0]
+ [428   0]]
+Test accuracy = 0.5091743119266054
+lr: 0.0002
+Epoch 0: valid accuracy = 0.6353651839648545
+Epoch 1: valid accuracy = 0.7051070840197694
+Epoch 2: valid accuracy = 0.7182866556836903
+Epoch 3: valid accuracy = 0.7358594179022515
+Epoch 4: valid accuracy = 0.7254255903349808
+Avg_loss:  0.767921504165445
+f1: 0.7055961070559611
+Confusion matrix:
+ [[340 104]
+ [138 290]]
+Test accuracy = 0.7224770642201835
+lr: 0.0005
+Epoch 0: valid accuracy = 0.5974739154310819
+Epoch 1: valid accuracy = 0.6485447556287754
+Epoch 2: valid accuracy = 0.6842394288852279
+Epoch 3: valid accuracy = 0.727622185612301
+Epoch 4: valid accuracy = 0.7501372872048325
+Avg_loss:  0.6557425973670823
+f1: 0.7239263803680982
+Confusion matrix:
+ [[352  92]
+ [133 295]]
+Test accuracy = 0.7419724770642202

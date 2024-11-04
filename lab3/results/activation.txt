@@ -1,0 +1,36 @@
+leakyrelu
+Epoch 0: valid accuracy = 0.49917627677100496
+Epoch 1: valid accuracy = 0.49917627677100496
+Epoch 2: valid accuracy = 0.6315211422295443
+Epoch 3: valid accuracy = 0.6891817682591982
+Epoch 4: valid accuracy = 0.7067545304777595
+Avg_loss:  0.5812183352453368
+f1: 0.7041284403669725
+Confusion matrix:
+ [[307 137]
+ [121 307]]
+Test accuracy = 0.7041284403669725
+tanh
+Epoch 0: valid accuracy = 0.49917627677100496
+Epoch 1: valid accuracy = 0.49917627677100496
+Epoch 2: valid accuracy = 0.49917627677100496
+Epoch 3: valid accuracy = 0.6353651839648545
+Epoch 4: valid accuracy = 0.6825919824272377
+Avg_loss:  0.6195950710347721
+f1: 0.7168998923573735
+Confusion matrix:
+ [[276 168]
+ [ 95 333]]
+Test accuracy = 0.698394495412844
+elu
+Epoch 0: valid accuracy = 0.49917627677100496
+Epoch 1: valid accuracy = 0.49917627677100496
+Epoch 2: valid accuracy = 0.6177924217462932
+Epoch 3: valid accuracy = 0.6968698517298187
+Epoch 4: valid accuracy = 0.7040087863811093
+Avg_loss:  0.585468128323555
+f1: 0.7452165156092648
+Confusion matrix:
+ [[249 195]
+ [ 58 370]]
+Test accuracy = 0.7098623853211009

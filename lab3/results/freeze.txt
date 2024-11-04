@@ -1,0 +1,24 @@
+True
+Epoch 0: valid accuracy = 0.7523338824821527
+Epoch 1: valid accuracy = 0.7896760021965953
+Epoch 2: valid accuracy = 0.7786930258099946
+Epoch 3: valid accuracy = 0.7874794069192751
+Epoch 4: valid accuracy = 0.7874794069192751
+Avg_loss:  0.46985365237508503
+f1: 0.8008429926238145
+Confusion matrix:
+ [[303 141]
+ [ 48 380]]
+Test accuracy = 0.783256880733945
+False
+Epoch 0: valid accuracy = 0.6238330587589237
+Epoch 1: valid accuracy = 0.6935749588138386
+Epoch 2: valid accuracy = 0.7215815485996705
+Epoch 3: valid accuracy = 0.729269632070291
+Epoch 4: valid accuracy = 0.7413509060955519
+Avg_loss:  0.5944485499390534
+f1: 0.735582154515778
+Confusion matrix:
+ [[291 153]
+ [ 90 338]]
+Test accuracy = 0.7213302752293578
